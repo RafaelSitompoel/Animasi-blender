@@ -1,0 +1,15 @@
+00:00.078  color_management | Using OCIO=C:\Program Files\Blender Foundation\Blender 5.2\5.2\datafiles\colormanagement\config.ocio
+00:04.688  blend            | Read blend: "C:\Users\ACER NITRO\Documents\Animasi-blender\porsche_render.blend"
+00:05.766  render           | Rendering single frame
+00:05.766  render           | Rendering frame 150
+00:05.782  render           | Start rendering: PorscheChase, ViewLayer
+00:05.782  render           | Engine: EEVEE
+01:18.282  render           | Fra: 150 | Rendering 1 / 18 samples
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+01:26.235  render           | Fra: 150 | Rendering 18 / 18 samples
+01:26.500  render           | Executing compositor
+01:26.500  render           | Fra: 150 | Compositing
+01:27.391  render           | Saved: 'C:\Users\ACER NITRO\Documents\Animasi-blender\test_0150.png'
+01:27.391  render           | Time: 01:21.62 (Saving: 00:00.61)
+
+Blender quit

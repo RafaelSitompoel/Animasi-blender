@@ -1,0 +1,10 @@
+00:00.109  color_management | Using OCIO=C:\Program Files\Blender Foundation\Blender 5.2\5.2\datafiles\colormanagement\config.ocio
+00:10.109  blend            | Read blend: "C:\Users\ACER NITRO\Documents\Animasi-blender\porsche_chase.blend"
+00:11.031  render           | Rendering animation (frames 1..456)
+00:11.078  render           | Rendering frame 1
+00:11.078  render           | Start rendering: PorscheChase, ViewLayer
+00:11.078  render           | Engine: EEVEE
+01:24.938  render           | Fra: 1 | Rendering 1 / 66 samples
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+02:46.688  render           | Fra: 1 | Rendering 25 / 66 samples
+04:09.078  render           | Fra: 1 | Rendering 50 / 66 samples
